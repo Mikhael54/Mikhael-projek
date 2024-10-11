@@ -2,5 +2,7 @@
 -Belajar Javascript
 *ES6
 *Framework javascript
--Struktur Data Dasar
--Belajar PHP
+  > Angular
+  > React
+-PHP framework
+  >Laravel
