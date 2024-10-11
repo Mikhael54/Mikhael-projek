@@ -2,7 +2,9 @@
 -Belajar Javascript
 *ES6
 *Framework javascript
-  > Angular
-  > React
--PHP framework
+  >Vue
+  >react
+-Struktur Data Dasar
+-Belajar PHP frameworks
   >Laravel
+-Phyton
