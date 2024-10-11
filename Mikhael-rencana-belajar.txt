@@ -1,0 +1,5 @@
+Rencana belajar Mikhael
+Belajar Javascript
+*ES6
+*Framework javascript
+Belajar PHP
