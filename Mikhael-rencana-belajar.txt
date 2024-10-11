@@ -2,5 +2,8 @@
 -Belajar Javascript
 *ES6
 *Framework javascript
+  >Vue
 -Struktur Data Dasar
--Belajar PHP
+-Belajar PHP frameworks
+  >Laravel
+-Phyton
